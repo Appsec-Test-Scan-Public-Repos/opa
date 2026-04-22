@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@docusaurus/core": "^3.8.1",
+    "@docusaurus/core": "^3.9.2",
     "@docusaurus/plugin-google-gtag": "^3.8.1",
     "@docusaurus/preset-classic": "^3.8.1",
     "@docusaurus/theme-mermaid": "^3.8.1",
